@@ -81,7 +81,7 @@ nav>a{
 
     color: #c5ebd6;
     text-decoration: none;
-    padding: 5px 0px 0px 0px;
+    padding: 0px 0px 0px 10px;
     border-radius: 5px;
     transition-duration: .5s;
    }
