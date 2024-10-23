@@ -3,13 +3,13 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');*/
 @font-face {
     font-family: 'Android';
-    src: url('../pacote-projeto-d10/pacote-projeto-d010/fontes/idroid.otf') format('opentype'); /*um ponto=pasta atual / pontoponto = pasta anterior*/
+    src: url('../pacote-projeto-d10/fontes/idroid.otf') format('opentype'); /*um ponto=pasta atual / pontoponto = pasta anterior*/
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'bebasneue';
-    src:url('../pacote-projeto-d10/pacote-projeto-d010/fontes/bebasneue.ttf') format('truetype');
+    src:url('../pacote-projeto-d10/fontes/bebasneue.ttf') format('truetype');
      }
 
 /*pode colocar aqui em cima fontes,cores, tudo que for usar*/
